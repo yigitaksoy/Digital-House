@@ -161,17 +161,15 @@ nav {
       
 }
 
-.nav-links li {
-    
+.nav-links li {   
   opacity: 0;
-  margin-right: .9rem;
   overflow: hidden;  
        
   }
 
   .nav-links li a {
     font-size: 16px;
-    font-weight: 800;
+    font-weight: 500;
     
   }
 
