@@ -1,45 +1,211 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome USER_NAME,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+<h2 align="center">
+ Digital House | Amsterdam
+</h2>
 
-## Gitpod Reminders
+<h3 align="center">
+<img src="https://github.com/yigitaksoy/Digital-House/blob/master/assets/img/Screenshot.png"  alt="Digital House Overview">
+</h3>
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+<div align="center"> 
 
-A blue button should appear to click: *Make Public*,
+Digital House is a mockup website for a Digital Agency. 
+<br><br>
 
-Another blue button should appear to click: *Open Browser*.
+[You can view the live project here](https://yigitaksoy.github.io/Digital-House/)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+</div>
 
-A blue button should appear to click: *Make Public*,
+# Digital House | Amsterdam
 
-Another blue button should appear to click: *Open Browser*.
+## Overview 
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+Digital House is a website, for a Digital Agency located in Amsterdam, The Netherlands. The website features a home page, an about page, a services section for all the services provided by the digital agency, a prices section showing the service packages offered by the Agency, and their prices, and a contact page with a map so clients can inquire about services, and contact the agency. 
 
-## Updates Since The Instructional Video
+## Contents Table
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+1. [**UX**](#ux)
+    - [**User Stories**](#user-stories)
+    - [**Design Ideas**](#design-ideas)
+    - [**Wireframes**](#wireframes)
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+2. [**Features**](#features)
+    - [**Existing Features**](#existing-features)
+    - [**Features to Implement**](#features-left-to-implement)
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+3. [**Technologies Used**](#technologies-used)
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+4. [**Testing**](#testing)
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+5. [**Deployment**](#deployment)
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+6. [**Credits**](#credits)
+    - [**Contents**](#contents)
+    - [**Media**](#media)
+    - [**Bootstrap snippets & Codes**](#bootstrap-snippets--codes)
+    - [**Acknowledgements**](#acknowledgements)
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+7. [**Disclaimer**](#disclaimer)
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+ 
+ 
+## UX
 
---------
+The Website was built with mobile-first design in mind, and aims to target individuals, and business around the world who are looking for digital services such as Web Design, Web Development & Coding, and Digital Marketing for their needs. The main focus is to drive potential clients to contact the agency for their services. 
 
-Happy coding!
+
+### User stories
+
+#### First Time Visitor Goals
+
+* I want to be able to easily navigate through the website with my mobile device.
+* I want to be able to find more information about the Agency.
+* I want to be able to find out more about the services which are offered by the Agency.
+* I want to be able to see how much each of the services cost.
+* I want to be able to contact the Agency for their services. 
+
+
+#### Returning Visitor Goals
+
+* I want to find more information about their services.
+* I want to find the best way to get in touch with the Agency, and learn more about their packages.
+
+
+
+#### Frequent User Goals
+* I want to see if there are any newly added Services.
+* I want to see other ways to interract with the Agency. 
+
+
+
+## Strategy 
+
+The goal of the website is to inform potential clients about the services that website offers, increase Agency awareness, and increase client portfolio. Agency aims to attract more clients by offering package deals at a low monthly cost. 
+
+## Design Ideas 
+
+ 
+
+### Wireframes
+
+- [Desktop view]("")
+- [Tablet view]("")
+- [Mobile view]("")
+
+
+## Features
+ 
+### Existing Features
+
+- Responsive on all device sizes.  
+- Information about the Agency.
+- List of services, and their descriptions.
+- Interactive Pricing section describing all the offered services in more detail, and showing the price of the each service. 
+- Interactive Contact Form with a Map.
+
+### Features to Implement
+
+- Agency portfolio section showcasing all the work that has been done by the company.
+- Blog section to increase website traffic, and attract more potential clients. 
+- Creating a platform which enables customers to purchase Service Packages diretcly from the website.
+- 24/7 Online chat support for current, and potential clients. 
+
+
+
+
+## Technologies Used
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+    - **HTML5** HyperText Markup Language.
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+    - **CSS3** Cascading Style Sheets.
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+    - **Javasript** a high-level, interpreted programming language, which was used to create more interactive, and responsive navbar for mobile devices.
+- [Visiual Studio Code ](https://code.visualstudio.com)
+    - **Vscode** Is the code editor used to develop this website.
+- [Gitpod](https://www.gitpod.io/) 
+    - **Gitpod** was the IDE used to commit & push the project on [GitHub](https://github.com/).    
+- [GitHub](https://github.com/)
+    - **Github** is used for: 
+    1. Tracking the project, and for version control.
+    2. As a remote server for other users to see the code used in the project.
+    3. Deploying the project for live view. The deployed version can be viewed [here](https://yigitaksoy.github.io/Digital-House/).
+- [Bootstrap](https://www.bootstrapcdn.com/)
+    - **Bootstrap**  to structure the website, and to achieve responsive layout across various mobile devices.      
+- [JQuery](https://jquery.com)
+    - **JQuery**  used with Bootstrap.  
+- [Google Fonts](https://fonts.google.com/)
+    - **Google Fonts**  for importing typography.
+- [Font Awesome](https://fontawesome.com/) 
+   - **Font Awesome** for adding an social icons, and on the disclaimer on the footer. 
+- [W3C Markup Validator](https://validator.w3.org/)
+   - **W3C Markup Validator** to check validity of HTML code.   
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+   - **W3C CSS Validator** to check validity of CSS code.
+- [Balsamiq:](https://balsamiq.com/)
+    - **Balsamiq** was used for creating [wireframes](https://github.com/yigitaksoy/Digital-House/img/wireframes/) during the design process. 
+
+
+
+## Testing 
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate the HTML & CSS code in the project to ensure there were no syntax errors.
+
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/assets/img/)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/assets/img/)
+
+- All pages were tested locally, and on GitHub using Chrome, Firefox, IE, and Safari. 
+- All pages tested for responsivness in different device sizes using Google Chrome Developer Tools;
+  - Desktop 
+  - iPhone 5/6/7/8/X 
+  - iPad 1/2/3/Pro 
+  - Galaxy Android phones
+
+ 
+
+
+## Deployment
+
+- To view the deployed version of [Digital House](https://yigitaksoy.github.io/Digital-House/) I took the following steps:
+    - Logged on to [GitHub](https://github.com/).
+    - Selected **yigitaksoy/Digital-House** from the list of repositories.
+    - Selected **Settings** from the navbar near the top of the page.
+    - Scrolled down to **Github Pages**, clicked on the subtitle labelled **Source**, and changed the source to **master branch**.
+    - The page automatically refreshed, and was ready for deployment. Changes took 5 to 10 minutes for them to take effect.
+
+- To add this repository to your local workspace:
+    - Click on the [Digital House repository on GitHub](https://yigitaksoy.github.io/Digital-House/) link.
+    - Click on the green **Clone or download** button on the right-hand side, and copy the clone URL.
+    - Go into your local workspace, and open up a new terminal. `git bash`
+    - You will need to be inside of the directory that you want to add the cloning to.
+    - Type `git clone ` and paste the URL you copied from GitHub, and press enter. It should look like this: 
+```console
+git clone https://github.com/*username*/*repository*
+```
+The process of cloning is now completed. For further information on cloning,
+ visit [How to clone from GitHub](https://help.github.com/en/articles/cloning-a-repository).
+
+
+
+## Credits
+
+### Content
+- All Content on this website were adapted from [Dutch Digital Agencies](https://dutchdigitalagencies.com/). 
+
+### Media
+- Landing page, and services images are from [Unsplash](https://unsplash.com).
+- About us image is from [Pixabay](https://pixabay.com/).
+
+### Bootstrap snippets & Codes
+- Responsive mobile navbar, with HTML, CSS & JS is from [Dev Ed](https://youtu.be/gXkqy0b4M5g) Youtube lesson.
+- CSS Fade-in animation source code is from [Hubspot](https://blog.hubspot.com/website/css-fade-in)
+- Bootstrap snippet used for the pricing page is from [Startbootstrap.com](https://startbootstrap.com/snippets/pricing-table).
+- Idea for the Contact page with Map is from [Wrappixel](https://snippets.wrappixel.com/contact-form-with-map/).
+
+## Acknowledgements
+- I would like to thank my mentor Nishant Kumar for his valuable input thoughout this project. 
+
+## Disclaimer
+- All content on the website, including images and text, are used for educational purposes only.
