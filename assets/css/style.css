@@ -243,8 +243,8 @@ nav {
   }
 
   .lead-text h1 {
-    
     font-weight: 900;
+    margin-bottom: 2.5rem;
   }
 
   .lead-text p {
@@ -291,15 +291,11 @@ nav {
 
         @media screen and (max-width: 768px) {
   
-      .jumbotron {
-        min-height: 75vh;
-        text-align: center; 
-        }
       .lead-text {
         margin-top: 5rem;
       }
       .lead-text h1 {
-        font-size: 52px;
+        font-size: 53px;
       }
        .lead-text p {
         font-weight: 600;
