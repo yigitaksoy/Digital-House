@@ -148,15 +148,17 @@ nav {
       position: absolute;
       right: 0px;  
       height: 50vh; 
+      padding: 0;
       top: 7vh;
       background-color: #12151F;
       display: flex;
       flex-direction: column;
       align-items: center; 
-      width: 40%;  
+      width: 46%;  
       transform: translate(100%); 
       transition: transform 0.5s ease-in;
       z-index: 1;
+      
 }
 
 .nav-links li {
