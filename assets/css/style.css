@@ -291,6 +291,10 @@ nav {
 
         @media screen and (max-width: 768px) {
   
+      .jumbotron {
+        min-height: 75vh;
+        text-align: center; 
+        }
       .lead-text {
         margin-top: 5rem;
       }
