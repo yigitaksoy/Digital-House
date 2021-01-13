@@ -395,20 +395,17 @@ nav {
 /* - - -                              Pricing     */
 
 
-.pricing-container {
-  margin-bottom: 1px;
+.pricing-section {
+  background: #5b84c4;
+  margin-bottom: 1px; 
 }
 
-.pricing-container h2 {
+.pricing-section h2 {
   margin-bottom: 1rem;
 }
 
-.pricing-container h3 {
+.pricing-section h3 {
   background-color: #fff;
-}
-
-.pricing-section {
-  background: #5b84c4; 
 }
 
 .pricing-section .card {
@@ -455,12 +452,12 @@ nav {
 /*                                   Hover Effects on Card */
 
 @media (min-width: 992px) {
-  .pricing .card:hover {
+  .pricing-section .card:hover {
     margin-top: -.25rem;
     margin-bottom: .25rem;
     box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
   }
-  .pricing .card:hover .btn {
+  .pricing-section .card:hover .btn {
     opacity: 1;
   }
 }
