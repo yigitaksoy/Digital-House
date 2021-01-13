@@ -251,7 +251,7 @@ nav {
     color: #5b84c4;
     font-weight: 700;
     background-color: #12151F;
-
+    font-size: 20px;
   }
 
 
@@ -289,14 +289,17 @@ nav {
       }
 
 
-       @media screen and (max-width: 768px) {
+        @media screen and (max-width: 768px) {
   
+      .lead-text {
+        margin-top: 5rem;
+      }
       .lead-text h1 {
-    
-        font-size: 68px;
-        margin-bottom: 2rem;
-       }
- 
+        font-size: 52px;
+      }
+       .lead-text p {
+        font-weight: 600;
+      }
 }
 
  
