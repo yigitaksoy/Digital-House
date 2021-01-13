@@ -192,16 +192,16 @@ The process of cloning is now completed. For further information on cloning,
 ## Credits
 
 ### Content
-- All Content on this website were adapted from [Dutch Digital Agencies](https://dutchdigitalagencies.com/). 
+- All Content on this website were inspired, and adapted from [Dutch Digital Agencies](https://dutchdigitalagencies.com/). 
 
 ### Media
-- Landing page, and services images are from [Unsplash](https://unsplash.com).
-- About us image is from [Pixabay](https://pixabay.com/).
+- All images used on this website are from [Unsplash](https://unsplash.com).
 
 ### Bootstrap snippets & Codes
 - Responsive mobile navbar, with HTML, CSS & JS is from [Dev Ed](https://youtu.be/gXkqy0b4M5g) Youtube lesson.
 - CSS Fade-in animation source code is from [Hubspot](https://blog.hubspot.com/website/css-fade-in)
-- Bootstrap snippet used for the pricing page is from [Startbootstrap.com](https://startbootstrap.com/snippets/pricing-table).
+- Source code for the brush stroke highlight effects on Services Page is from [Andy Hooke](https://www.andyhooke.co.uk/how-to-add-a-paint-stroke-highlight-to-text-using-css-in-divi/).
+- Bootstrap snippet used for the Pricing Page is from [Startbootstrap.com](https://startbootstrap.com/snippets/pricing-table).
 - Idea for the Contact page with Map is from [Wrappixel](https://snippets.wrappixel.com/contact-form-with-map/).
 
 ## Acknowledgements
