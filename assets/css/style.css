@@ -377,6 +377,12 @@ nav {
   margin-top: 1rem;
 }
 
+  @media screen and (max-width: 768px) {
+    .services-container img {
+      width: auto;
+      height: 400px!important;
+    }
+  }
 
 
 /* - - -                              Pricing     */
