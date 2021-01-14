@@ -312,14 +312,17 @@ nav {
 
 
 .testimonial {
-  margin-top: 1rem;
-  padding: 1rem 2.5rem;
+  margin-top: 3rem;
+  padding: .5rem 4.5rem;
 }
 
 .about-text p {
   font-size: 20px;
-  font-weight: 600; 
-  
+  font-weight: 500;  
+}
+
+.about-container img {
+  margin-top: 3rem;
 }
 
 @media screen and (max-width: 768px) {
@@ -328,12 +331,12 @@ nav {
     padding-bottom: 0!important; 
   }
   .about-container img {
+    margin-top: 0;
     width: auto;
-    height: 400px!important;
+    height: 340px!important;
   }
 
   .testimonial {
-    margin-top: 3rem;
     padding: 0!important;
     padding-left: 1.5rem!important;
     padding-right: 1.5rem!important;
