@@ -471,12 +471,7 @@ nav {
   padding-bottom: 14px;   
 }
 
-@media screen and (max-width: 768px) {
 
-  .contact-container h2 {
-  text-align: center!important;  
-}
-  }
 
 
 /* - - -                              Contact Form       */
