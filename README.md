@@ -5,7 +5,7 @@
 </h2>
 
 <h3 align="center">
-<img src="https://github.com/yigitaksoy/Digital-House/blob/master/assets/img/Screenshot.png"  alt="Digital House Overview">
+<img src="https://github.com/yigitaksoy/Digital-House/blob/master/assets/img/screenshot.png"  alt="Digital House Overview">
 </h3>
 
 
