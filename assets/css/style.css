@@ -472,6 +472,14 @@ nav {
   padding-bottom: 14px;   
 }
 
+@media screen and (max-width: 768px) {
+
+  .contact-container h2 {
+    margin-left: 1.8rem;   
+  }
+
+}
+
 
 
 /* - - -                              Contact Form       */
