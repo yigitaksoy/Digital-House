@@ -463,18 +463,15 @@ nav {
 
 
 .contact-container {
-
   padding: 70px 0px 5px;
-  background-color: #12151F;
-   
+  background-color: #12151F;  
 }
 
 .contact-container h2 {
-  
-  margin-left: 3rem;
-  padding-bottom: 14px;  
-  
+  text-align: center;
+  padding-bottom: 14px;   
 }
+
 
 /* - - -                              Contact Form       */
 
@@ -493,6 +490,8 @@ nav {
   padding-right: 22px;
   margin-bottom: 16px;
 }
+
+
 
 
 /* - - -                            Contact Map         */
