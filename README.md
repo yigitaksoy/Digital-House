@@ -28,12 +28,12 @@ Digital House is a website, for a Digital Agency located in Amsterdam, The Nethe
 
 1. [**UX**](#ux)
     - [**User Stories**](#user-stories)
-    - [**Design Ideas**](#design-ideas)
+    - [**Design**](#design)
     - [**Wireframes**](#wireframes)
 
 2. [**Features**](#features)
     - [**Existing Features**](#existing-features)
-    - [**Features to Implement**](#features-left-to-implement)
+    - [**Features to Implement**](#features-to-implement)
 
 3. [**Technologies Used**](#technologies-used)
 
@@ -84,9 +84,9 @@ The Website was built with mobile-first design in mind, and aims to target indiv
 
 The goal of the website is to inform potential clients about the services that website offers, increase Agency awareness, and increase client portfolio. Agency aims to attract more clients by offering package deals at a low monthly cost. 
 
-## Design Ideas 
+## Design 
 
- 
+
 
 ### Wireframes
 
