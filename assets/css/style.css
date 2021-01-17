@@ -248,7 +248,7 @@ nav {
   }
 
 
-  .fade-in {
+  .fade-in { /*     Fade-in animation resource:  https://blog.hubspot.com/website/css-fade-in   */
    
       animation: fadeIn ease 2s;
       -webkit-animation: fadeIn ease 2s;
@@ -373,7 +373,7 @@ nav {
   margin-top: 1rem;
 }
 
-.highlight {
+.highlight {        /*   Brush stroke effects resource code:   https://www.andyhooke.co.uk/how-to-add-a-paint-stroke-highlight-to-text-using-css-in-divi/ */
   background: url('../img/brush-stroke.png');
   background-repeat: no-repeat;
   background-size: 100% 95%;
