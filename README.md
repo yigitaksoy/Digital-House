@@ -153,8 +153,8 @@ The goal of the website is to inform potential clients about the services that w
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate the HTML & CSS code in the project to ensure there were no syntax errors.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/assets/img/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/assets/img/)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/yigitaksoy/Digital-House/blob/master/assets/w3c-validator-results/w3c-html-validator-results.png)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/yigitaksoy/Digital-House/blob/master/assets/w3c-validator-results/w3c-css-validator-results.png)
 
 - All pages were tested locally, and on GitHub using Chrome, Firefox, IE, and Safari. 
 - All pages tested for responsivness in different device sizes using Google Chrome Developer Tools;
