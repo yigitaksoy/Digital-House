@@ -125,7 +125,7 @@ The goal of the website is to inform potential clients about the services that w
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
     - **Javasript** a high-level, interpreted programming language, which was used to create more interactive, and responsive navbar for mobile devices.
 - [Visiual Studio Code ](https://code.visualstudio.com)
-    - **Vscode** Is the code editor used to develop this website.
+    - **Vscode** Is the code editor used to develop, commit & push parts of this website.
 - [Gitpod](https://www.gitpod.io/) 
     - **Gitpod** was the IDE used to commit & push the project on [GitHub](https://github.com/).    
 - [GitHub](https://github.com/)
@@ -139,6 +139,8 @@ The goal of the website is to inform potential clients about the services that w
     - **JQuery**  used with Bootstrap.  
 - [Google Fonts](https://fonts.google.com/)
     - **Google Fonts**  for importing typography.
+- [Google Maps](https://www.google.com/maps/)
+    - **Google Maps**  for showing company location.
 - [Font Awesome](https://fontawesome.com/) 
    - **Font Awesome** for adding an social icons, and on the disclaimer on the footer. 
 - [W3C Markup Validator](https://validator.w3.org/)
