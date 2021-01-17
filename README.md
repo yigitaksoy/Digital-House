@@ -148,7 +148,9 @@ The goal of the website is to inform potential clients about the services that w
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
    - **W3C CSS Validator** to check validity of CSS code.
 - [Balsamiq:](https://balsamiq.com/)
-    - **Balsamiq** was used for creating [wireframes](https://github.com/yigitaksoy/Digital-House/img/wireframes/) during the design process. 
+    - **Balsamiq** was used for creating [wireframes](https://github.com/yigitaksoy/Digital-House/tree/master/assets/wireframes) during the design process. 
+- [Code Institute Form Dump](https://formdump.codeinstitute.net)
+    - **Code Institute Form Dump** was used to validate input on the contact form, and improve UX.
 
 
 
@@ -169,6 +171,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
   - iPhone 5s/6s/8/X/XS/11/
   - Samsung Galaxy S8/Note 10+
   - iPad Air 2 
+- All the links tested locally, and on the deployed project. 
+- Contact form was tested trying to submit as empty, incomplete, and filled to make sure that it is working properly. Contact form also uses POST method linked to Code Institute form dump for input validation. 
 
  
 
