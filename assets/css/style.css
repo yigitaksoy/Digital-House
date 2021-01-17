@@ -326,7 +326,7 @@ nav {
   .about-container img {
     margin-top: 0;
     width: auto;
-    height: 340px!important;
+    height: 300px!important;
   }
 
   .testimonial {
@@ -383,7 +383,7 @@ nav {
   @media screen and (max-width: 768px) {
     .services-container img {
       width: auto;
-      height: 400px!important;
+      height: 340px!important;
     }
   }
 
