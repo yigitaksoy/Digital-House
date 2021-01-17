@@ -100,7 +100,8 @@ The goal of the website is to inform potential clients about the services that w
 ### Existing Features
 
 - Responsive on all device sizes.  
-- Information about the Agency.
+- Interactive and responsive Mobile navbar built with HTML, CSS and Javascript 
+- Information page about the Agency.
 - List of services, and their descriptions.
 - Interactive Pricing section describing all the offered services in more detail, and showing the price of the each service. 
 - Interactive Contact Form with a Map.
