@@ -90,9 +90,9 @@ The goal of the website is to inform potential clients about the services that w
 
 ### Wireframes
 
-- [Desktop view]("")
-- [Tablet view]("")
-- [Mobile view]("")
+- [Desktop view](https://github.com/yigitaksoy/Digital-House/blob/master/assets/wireframes/desktop-wireframe.png)
+- [Tablet view](https://github.com/yigitaksoy/Digital-House/blob/master/assets/wireframes/tablet-wireframe.png)
+- [Mobile view](https://github.com/yigitaksoy/Digital-House/blob/master/assets/wireframes/mobile-wireframe.png)
 
 
 ## Features
