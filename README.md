@@ -151,6 +151,8 @@ The goal of the website is to inform potential clients about the services that w
     - **Balsamiq** was used for creating [wireframes](https://github.com/yigitaksoy/Digital-House/tree/master/assets/wireframes) during the design process. 
 - [Code Institute Form Dump](https://formdump.codeinstitute.net)
     - **Code Institute Form Dump** was used to validate input on the contact form, and improve UX.
+- [TinyPNG](https://tinypng.com/)
+    - **TinyPNG** was used for compressing images used on this website. 
 
 
 
