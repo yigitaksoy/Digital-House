@@ -176,6 +176,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 - All the links tested locally, and on the deployed project. 
 - Contact form was tested trying to submit as empty, incomplete, and filled to make sure that it is working properly. Contact form also uses POST method linked to Code Institute form dump for input validation. 
 
+### Debugging
+
+- During the earlier development stages of the website, a custom [Mapbox](https://www.mapbox.com/) map was used for the Contact page to improve the UI. After testing the page on various screen sizes, I found out that the map wasn't responsive. During my research i found out that in order to make a Mapbox map responsive, javascript is also needed. Since this was out of the scope of this project, I've decided to use Google Maps which is easier to implement. If you're interested in using Mapbox maps on your projects, you may find the solution [here.](https://www.codeply.com/go/xVmxfg8AP5/bootstrap-4-mapbox) For more information on how to use Google Maps on your website, you may look [here.](https://cloud.google.com/maps-platform/)
+
  
 
 
