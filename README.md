@@ -162,6 +162,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
   - iPhone 5/6/7/8/X 
   - iPad 1/2/3/Pro 
   - Galaxy Android phones
+- All the pages were also tested manually using;
+  - iPhone 5s/6s/8/X/XS/11/
+  - Samsung Galaxy S8/Note 10+
+  - iPad Air 2 
 
  
 
