@@ -173,8 +173,8 @@ The goal of the website is to inform potential clients about the services that w
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate the HTML & CSS code in the project to ensure there were no syntax errors.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/yigitaksoy/Digital-House/blob/master/assets/w3c-validator-results/w3c-html-validator-results.png)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/yigitaksoy/Digital-House/blob/master/assets/w3c-validator-results/w3c-css-validator-results.png)
+-   [W3C Markup Validator Results](https://github.com/yigitaksoy/Digital-House/blob/master/assets/w3c-validator-results/w3c-html-validator-results.png)
+-   [W3C CSS Validator Results](https://github.com/yigitaksoy/Digital-House/blob/master/assets/w3c-validator-results/w3c-css-validator-results.png)
 
 - All pages were tested locally, and on GitHub using Chrome, Firefox, IE, and Safari. 
 - All pages tested for responsivness in different device sizes using Google Chrome Developer Tools;
@@ -188,7 +188,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
   - iPad Air 2 
 - All the internal links tested locally, and functional.
 - All external links works as expected, and open in a new tab. 
-- All images are properly sized, and contain 'alt' text for description. 
+- All images are properly sized, and contain 'alt' text for description.
+- All the buttons checked for functionality, and works as expected. 
 - All the links in mobile navbar works, and navbar works as expected.
 - The contact form tested trying to submit content empty, incomplete, and filled to make sure that it is working properly. Contact form also uses POST method linked to Code Institute form dump for input validation. 
 
