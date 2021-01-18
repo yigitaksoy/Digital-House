@@ -205,9 +205,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 - To view the deployed version of [Digital House](https://yigitaksoy.github.io/Digital-House/) I took the following steps:
     - Logged on to [GitHub](https://github.com/).
     - Selected **yigitaksoy/Digital-House** from the list of repositories.
-    - Selected **Settings** from the navbar near the top of the page.
-    - Scrolled down to **Github Pages**, clicked on the subtitle labelled **Source**, and changed the source to **master branch**.
-    - The page automatically refreshed, and was ready for deployment. Changes took 5 to 10 minutes for them to take effect.
+    - Selected **Settings** within the repository.
+    - Scrolled down to **Github Pages**, and changed **source** to **master branch**.
+    - The page automatically deployed. 
 
 - To add this repository to your local workspace:
     - Click on the [Digital House repository on GitHub](https://yigitaksoy.github.io/Digital-House/) link.
