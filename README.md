@@ -233,10 +233,11 @@ The process of cloning is now completed. For further information on cloning,
 
 ### Bootstrap snippets & Codes
 - Responsive mobile navbar, with HTML, CSS & JS is from [Dev Ed](https://youtu.be/gXkqy0b4M5g) Youtube lesson.
-- CSS Fade-in animation source code is from [Hubspot](https://blog.hubspot.com/website/css-fade-in)
+- CSS Fade-in animation source code is from [Hubspot](https://blog.hubspot.com/website/css-fade-in).
 - Source code for the brush stroke highlight effects on Services Page is from [Andy Hooke](https://www.andyhooke.co.uk/how-to-add-a-paint-stroke-highlight-to-text-using-css-in-divi/).
 - Bootstrap snippet used for the Pricing Page is from [Startbootstrap.com](https://startbootstrap.com/snippets/pricing-table).
 - Idea for the Contact page with Map is from [Wrappixel](https://snippets.wrappixel.com/contact-form-with-map/).
+- Bootstrap 4 Responsive Google Map code snippet is from [Codeply](https://www.codeply.com/p/i4K1zrn6u3).
 
 ## Acknowledgements
 - I would like to thank my mentor Nishant Kumar for his valuable input thoughout this project. 
