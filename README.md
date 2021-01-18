@@ -187,11 +187,12 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
   - Samsung Galaxy S8/Note 10+
   - iPad Air 2 
 - All the internal links tested locally, and functional.
+- All the logos on the website are functional, and leads the user back to the home page. 
 - All external links works as expected, and open in a new tab. 
 - All images are properly sized, and contain 'alt' text for description.
 - All the buttons checked for functionality, and works as expected. 
 - All the links in mobile navbar works, and navbar works as expected.
-- The contact form tested trying to submit content empty, incomplete, and filled to make sure that it is working properly. Contact form also uses POST method linked to Code Institute form dump for input validation. 
+- All the fields in the contact form, as well as the submit button are tested, and working properly. Contact form also uses POST method linked to Code Institute form dump for input validation. 
 
 ### Debugging
 
