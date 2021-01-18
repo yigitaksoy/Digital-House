@@ -235,7 +235,7 @@ nav {
   }
 
 
-  .fade-in { /*     Fade-in animation resource:  https://blog.hubspot.com/website/css-fade-in   */
+  .fade-in { /*     Fade-in animation code resource:  https://blog.hubspot.com/website/css-fade-in   */
    
       animation: fadeIn ease 2s;
       -webkit-animation: fadeIn ease 2s;
@@ -358,7 +358,7 @@ nav {
   margin-top: 1rem;
 }
 
-.highlight {        /*   Brush stroke effects resource code:   https://www.andyhooke.co.uk/how-to-add-a-paint-stroke-highlight-to-text-using-css-in-divi/ */
+.highlight {        /*   Brush stroke effects code resource:   https://www.andyhooke.co.uk/how-to-add-a-paint-stroke-highlight-to-text-using-css-in-divi/ */
   background: url('../img/brush-stroke.png');
   background-repeat: no-repeat;
   background-size: 100% 95%;
@@ -488,9 +488,9 @@ nav {
 
 
 
-/* - - -                            Contact Map         */
+/* - - -                            Contact Map         */  
 
-.map-container {
+.map-container {            /* Code resource is taken from: https://www.codeply.com/p/i4K1zrn6u3*/
 
   overflow:hidden;
   padding-bottom: 43rem;
