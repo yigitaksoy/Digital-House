@@ -186,8 +186,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
   - iPhone 5s/6s/8/X/XS/11/
   - Samsung Galaxy S8/Note 10+
   - iPad Air 2 
-- All the links tested locally, and on the deployed project. 
-- Contact form was tested trying to submit as empty, incomplete, and filled to make sure that it is working properly. Contact form also uses POST method linked to Code Institute form dump for input validation. 
+- All the internal links tested locally, and functional.
+- All external links works as expected, and open in a new tab. 
+- All images are properly sized, and contain 'alt' text for description. 
+- All the links in mobile navbar works, and navbar works as expected.
+- The contact form tested trying to submit content empty, incomplete, and filled to make sure that it is working properly. Contact form also uses POST method linked to Code Institute form dump for input validation. 
 
 ### Debugging
 
