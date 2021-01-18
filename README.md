@@ -86,7 +86,20 @@ The goal of the website is to inform potential clients about the services that w
 
 ## Design 
 
+### Color Scheme
 
+- The colors used throught the website are;
+- ![#12151F](https://via.placeholder.com/15/12151F/000000?text=+) `#12151F` 
+- ![#f5f5f5](https://via.placeholder.com/15/f5f5f5/000000?text=+) `#f5f5f5` 
+- ![#5b84c4](https://via.placeholder.com/15/5b84c4/000000?text=+) `#5b84c4` 
+
+### Typography
+
+- The primary font that was used on this project is [Google Montserrat.](https://fonts.google.com/specimen/Montserrat) It was used throught the website for Logo, Navigation links, on all the descriptions, and text to give the website a clear, spacious and minimalistic feel. 
+
+### Imagery
+
+- All the images on the website are obtained from [Unsplash.](https://unsplash.com) 
 
 ### Wireframes
 
