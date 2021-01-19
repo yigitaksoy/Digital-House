@@ -11,7 +11,7 @@
 
 <div align="center"> 
 
-Digital House is a mockup website for a Digital Agency. 
+
 <br><br>
 
 [You can view the live project here](https://yigitaksoy.github.io/Digital-House/)
@@ -22,7 +22,9 @@ Digital House is a mockup website for a Digital Agency.
 
 ## Overview 
 
-Digital House is a website, for a Digital Agency located in Amsterdam, The Netherlands. The website features a home page, an about page, a services section for all the services provided by the digital agency, a prices section showing the service packages offered by the Agency, and their prices, and a contact page with a map so clients can inquire about services, and contact the agency. 
+Digital House is a Digital Agency located in the heart of Amsterdam. Digital House offers services such as Web Design, Web Development, and Digital marketing. The website's main focus is to promote, and inform potential clients about their services, and raise brand awareness. 
+
+The website is fully responsive, and accessible on a wide range of mobile devices, and tablets. 
 
 ## Contents Table
 
