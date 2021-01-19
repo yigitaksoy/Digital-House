@@ -22,9 +22,9 @@
 
 ## Overview 
 
-Digital House is a Digital Agency located in the heart of Amsterdam. Digital House offers services such as Web Design, Web Development, and Digital marketing. The website's main focus is to promote, and inform potential clients about their services, and raise brand awareness. 
+This the main website for Digital House, a Digital Agency located in the heart of Amsterdam. The website aims to target individuals, and business around the world who are looking for digital services such as Web Design, Web Development & Coding, and Digital Marketing for their needs. The website's main focus is to promote, and inform potential clients about their services, and raise brand awareness.
 
-The website is fully responsive, and accessible on a wide range of mobile devices, and tablets. 
+The website was also built with mobile-first design in mind, and accessible on a wide range of mobile devices, and tablets.
 
 ## Contents Table
 
