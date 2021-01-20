@@ -99,7 +99,7 @@ The goal of the website is to inform potential clients about the services that w
 
 ### Imagery
 
-- All the images on the website are obtained from [Unsplash.](https://unsplash.com) 
+- The hero image was chosen to give the website a minimalistic, modern feel. As for the services section, images were chosen to give the user a warm, and colorful experience. 
 
 ### Wireframes
 
