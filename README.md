@@ -55,7 +55,7 @@ The website was also built with mobile-first design in mind, and accessible on a
  
 ## UX
 
-The Website was built with mobile-first design in mind, and aims to target individuals, and business around the world who are looking for digital services such as Web Design, Web Development & Coding, and Digital Marketing for their needs. The main focus is to drive potential clients to contact the agency for their services. 
+The Website features a clean, minimal, and spacious layout, with for users to easily navigate, and understand the main purpose of what the Agency tries to accomplish. 
 
 
 ### User stories
