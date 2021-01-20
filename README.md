@@ -62,23 +62,21 @@ The Website was built with mobile-first design in mind, and aims to target indiv
 
 #### First Time Visitor Goals
 
-* I want to be able to easily navigate through the website with my mobile device.
-* I want to be able to find more information about the Agency.
-* I want to be able to find out more about the services which are offered by the Agency.
-* I want to be able to see how much each of the services cost.
-* I want to be able to contact the Agency for their services. 
+* I want to be able to easily navigate through the website.
+* I want to be able to find information about the Agency.
+* I want to be able to find out about the services offered by the Agency.
 
 
 #### Returning Visitor Goals
 
 * I want to find more information about their services.
-* I want to find the best way to get in touch with the Agency, and learn more about their packages.
-
+* I want to be able to see the cost each of each service.
 
 
 #### Frequent User Goals
-* I want to see if there are any newly added Services.
-* I want to see other ways to interract with the Agency. 
+
+* I want to find out how to contact the Agency. 
+* I want to see the company's social media presence. 
 
 
 
