@@ -182,7 +182,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 #### First Time Visitor Goals
 
 * I want to be able to understand the purpose of the website.
-    - Upon visiting the website, users are welcomed with the branding, and the company slogan that briefly describes Agency's primary purpose.
+    - Upon visiting the website, users are welcomed with the branding, and the company slogan that briefly describes Agency's primary purpose. Underneath, there is a call to action button which leads users directly to About us section for users to understand the primary mission of the Agency. 
 * I want to be able to find information about the Agency.
     - On the About us page, a testimonial is presented about the Agency background, the services they provide, and a brief promotion of the team.
 * I want to be able to find out about the services offered by the Agency.
