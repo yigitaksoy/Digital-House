@@ -90,7 +90,7 @@ The goal of the website is to inform potential clients about the services that w
 
 - The colors used throught the website are;
 
-<img src="https://github.com/yigitaksoy/Digital-House/blob/master/assets/img/color-palette"  alt="color palette">
+<img src="https://github.com/yigitaksoy/Digital-House/blob/master/assets/img/color-palette.png"  alt="color palette">
 
 
 ### Typography
