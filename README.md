@@ -131,12 +131,17 @@ The goal of the website is to inform potential clients about the services that w
 
 ## Technologies Used
 
+### Languages Used
+
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
     - **HTML5** HyperText Markup Language.
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
     - **CSS3** Cascading Style Sheets.
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
     - **Javasript** a high-level, interpreted programming language, which was used to create more interactive, and responsive navbar for mobile devices.
+
+### Libraries, Frameworks and Programs Used
+
 - [Visiual Studio Code ](https://code.visualstudio.com)
     - **Vscode** Is the code editor used to develop, commit & push parts of this website.
 - [Gitpod](https://www.gitpod.io/) 
