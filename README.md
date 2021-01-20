@@ -230,6 +230,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 
 - During the earlier development stages of the website, a custom [Mapbox](https://www.mapbox.com/) map was used for the Contact page to improve the UI. After testing the page on various screen sizes, I found out that the map wasn't responsive. During my research i found out that in order to make a Mapbox map responsive, javascript is also needed. Since this was out of the scope of this project, I've decided to use Google Maps which is easier to implement. If you're interested in using Mapbox maps on your projects, you may find the solution [here.](https://www.codeply.com/go/xVmxfg8AP5/bootstrap-4-mapbox) For more information on how to use Google Maps on your website, you may look [here.](https://cloud.google.com/maps-platform/)
 
+- Some users reported scrolling issues with their mobile devices. To troubleshoot the problem `scroll-behavior` class was removed from the html element in the css. After further testing issue turned out be caused by users' devices, `scroll-behavior` class was added back, and issue was ignored. 
+
  
 
 
