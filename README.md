@@ -89,9 +89,9 @@ The goal of the website is to inform potential clients about the services that w
 ### Color Scheme
 
 - The colors used throught the website are;
-- ![#12151F](https://via.placeholder.com/15/12151F/000000?text=+) `#12151F` 
-- ![#f5f5f5](https://via.placeholder.com/15/f5f5f5/000000?text=+) `#f5f5f5` 
-- ![#5b84c4](https://via.placeholder.com/15/5b84c4/000000?text=+) `#5b84c4` 
+
+<img src="https://github.com/yigitaksoy/Digital-House/blob/master/assets/img/color-palette"  alt="color palette">
+
 
 ### Typography
 
