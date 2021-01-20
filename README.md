@@ -62,14 +62,14 @@ The Website was built with mobile-first design in mind, and aims to target indiv
 
 #### First Time Visitor Goals
 
-* I want to be able to easily navigate through the website.
+* I want to be able to understand the purpose of the website.
 * I want to be able to find information about the Agency.
 * I want to be able to find out about the services offered by the Agency.
 
 
 #### Returning Visitor Goals
 
-* I want to find more information about their services.
+* I want to find more information about Agency's services.
 * I want to be able to see the cost each of each service.
 
 
@@ -181,22 +181,28 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 
 #### First Time Visitor Goals
 
-* I want to be able to easily navigate through the website.
-1. Upon entering the website, 
+* I want to be able to understand the purpose of the website.
+    - Upon visiting the website, users are welcomed with the branding, and the company slogan that briefly describes Agency's primary purpose.
 * I want to be able to find information about the Agency.
+    - On the About us page, a testimonial is presented about the Agency background, the services they provide, and a brief promotion of the team.
 * I want to be able to find out about the services offered by the Agency.
+    - On the services section of the website, customers are presented with information about each of the services Agency offers.
 
 
 #### Returning Visitor Goals
 
-* I want to find more information about their services.
+* I want to find more information about Agency's services.
+    - On the Pricing section of the website, users are presented with further details about how each service is structured, and what is included in each package.
 * I want to be able to see the cost each of each service.
+    - On the Pricing section of the website, users are also provided with the cost of each service, and a "Contact" button that leads the user to the contact form for further inquires. 
 
 
 #### Frequent User Goals
 
 * I want to find out how to contact the Agency. 
+    - On the navigation bar a Contact link is added, which takes the user to the contact section which is at the bottom of the website, and provides users a contact form, along with the details of the agency. 
 * I want to see the company's social media presence. 
+    - On the footer of the website, users may find Agency's social media presence, and find other ways to interract with the agency.
 
 
 
