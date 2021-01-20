@@ -232,7 +232,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 
 - Some users reported scrolling issues with their mobile devices. To troubleshoot the problem `scroll-behavior` class was removed from the html element in the css. After further testing issue turned out be caused by users' devices, `scroll-behavior` class was added back, and issue was ignored. 
 
- 
+- During the development process, Gitpod servers were experiencing issues, and due these issues parts of this project was pushed using Vscode with "GitHub Pull Requests and Issues" extension. After the first commit i've realized that plugin was misconfigured, and this resulted in showing the first, and last name of the author on the commit history, instead of the user name [see here](https://github.com/yigitaksoy/Digital-House/commit/3626b48c32a1467e9cd449afbbc42ae519f389f6). Problem was fixed after proper configuration. 
 
 
 ## Deployment
