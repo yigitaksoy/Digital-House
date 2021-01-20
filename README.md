@@ -35,7 +35,7 @@ The website was also built with mobile-first design in mind, and accessible on a
 
 2. [**Features**](#features)
     - [**Existing Features**](#existing-features)
-    - [**Features to Implement**](#features-to-implement)
+    - [**Features Left to Implement**](#features-left-to-implement)
 
 3. [**Technologies Used**](#technologies-used)
 
@@ -119,7 +119,7 @@ The goal of the website is to inform potential clients about the services that w
 - Interactive Pricing section describing all the offered services in more detail, and showing the price of the each service. 
 - Interactive Contact Form with a Map.
 
-### Features to Implement
+### Features Left to Implement
 
 - Agency portfolio section showcasing all the work that has been done by the company.
 - Blog section to increase website traffic, and attract more potential clients. 
