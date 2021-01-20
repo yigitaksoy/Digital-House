@@ -127,8 +127,6 @@ The goal of the website is to inform potential clients about the services that w
 - 24/7 Online chat support for current, and potential clients. 
 
 
-
-
 ## Technologies Used
 
 ### Languages Used
@@ -178,6 +176,31 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 
 -   [W3C Markup Validator Results](https://github.com/yigitaksoy/Digital-House/blob/master/assets/w3c-validator-results/w3c-html-validator-results.png)
 -   [W3C CSS Validator Results](https://github.com/yigitaksoy/Digital-House/blob/master/assets/w3c-validator-results/w3c-css-validator-results.png)
+
+### Testing User Stories from UX Design Section
+
+#### First Time Visitor Goals
+
+* I want to be able to easily navigate through the website.
+1. Upon entering the website, 
+* I want to be able to find information about the Agency.
+* I want to be able to find out about the services offered by the Agency.
+
+
+#### Returning Visitor Goals
+
+* I want to find more information about their services.
+* I want to be able to see the cost each of each service.
+
+
+#### Frequent User Goals
+
+* I want to find out how to contact the Agency. 
+* I want to see the company's social media presence. 
+
+
+
+### Further Manual Testing
 
 - All pages were tested locally, and on GitHub using Chrome, Firefox, IE, and Safari. 
 - All pages tested for responsivness in different device sizes using Google Chrome Developer Tools;
