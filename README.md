@@ -245,8 +245,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 - To add this repository to your local workspace:
     - Click on the [Digital House repository on GitHub](https://yigitaksoy.github.io/Digital-House/) link.
     - Click on the green **Clone or download** button on the right-hand side, and copy the clone URL.
-    - Go into your local workspace, and open up a new terminal. `git bash`
-    - You will need to be inside of the directory that you want to add the cloning to.
+    - Go into your local workspace, and open up a new terminal. 
     - Type `git clone ` and paste the URL you copied from GitHub, and press enter. It should look like this: 
 ```console
 git clone https://github.com/*username*/*repository*
