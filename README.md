@@ -22,9 +22,9 @@
 
 ## Overview 
 
-This the main website for Digital House, a Digital Agency located in the heart of Amsterdam. The website aims to target individuals, and business around the world who are looking for digital services such as Web Design, Web Development & Coding, and Digital Marketing for their needs. The website's main focus is to promote, and inform potential clients about their services, and raise brand awareness.
+This the main website for Digital House, a Digital Agency located in the heart of Amsterdam. The website aims to target individuals, and business around the world who are looking for services such as Web Design, Web Development & Coding, and Digital Marketing for their needs. The website's main focus is to promote, and inform potential clients about their services, and raise brand awareness.
 
-The website was also built with mobile-first design in mind, and accessible on a wide range of mobile devices, and tablets.
+The website is built with mobile-first design in mind, and accessible on a wide range of mobile devices, and tablets.
 
 ## Contents Table
 
@@ -55,7 +55,7 @@ The website was also built with mobile-first design in mind, and accessible on a
  
 ## UX
 
-The Website features a clean, minimal, and spacious layout, with for users to easily navigate, and understand the main purpose of what the Agency tries to accomplish. 
+The Website features a clean, minimal, and spacious layout, for users to easily navigate, and understand the main purpose of what the Agency tries to accomplish. 
 
 
 ### User stories
@@ -70,7 +70,7 @@ The Website features a clean, minimal, and spacious layout, with for users to ea
 #### Returning Visitor Goals
 
 * I want to find more information about Agency's services.
-* I want to be able to see the cost each of each service.
+* I want to be able to see the cost of each service.
 
 
 #### Frequent User Goals
@@ -220,7 +220,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
   - iPad Air 2 
 - All the internal links tested locally, and functional.
 - All the logos on the website are functional, and leads the user back to the home page. 
-- All external links works as expected, and open in a new tab. 
+- All external links work as expected, and open in a new tab. 
 - All images are properly sized, and contain 'alt' text for description.
 - All the buttons checked for functionality, and works as expected. 
 - All the links in mobile navbar works, and navbar works as expected.
@@ -271,7 +271,7 @@ The process of cloning is now completed. For further information on cloning,
 - Source code for the brush stroke highlight effects on Services Page is from [Andy Hooke](https://www.andyhooke.co.uk/how-to-add-a-paint-stroke-highlight-to-text-using-css-in-divi/).
 - Bootstrap snippet used for the Pricing Page is from [Startbootstrap.com](https://startbootstrap.com/snippets/pricing-table).
 - Idea for the Contact page with Map is from [Wrappixel](https://snippets.wrappixel.com/contact-form-with-map/).
-- Bootstrap 4 Responsive Google Map code snippet is from [Codeply](https://www.codeply.com/p/i4K1zrn6u3).
+- Bootstrap 4 Responsive Google Map source code is from [Codeply](https://www.codeply.com/p/i4K1zrn6u3).
 
 ## Acknowledgements
 - I would like to thank my mentor Nishant Kumar for his valuable input thoughout this project. 
