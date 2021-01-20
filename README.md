@@ -139,14 +139,14 @@ The goal of the website is to inform potential clients about the services that w
 ### Frameworks, Libraries, and Programs Used
 
 - [Visiual Studio Code ](https://code.visualstudio.com)
-    - **Vscode** Is the code editor used to develop, commit & push parts of this website.
+    - **Vscode** Is the code editor used to develop, commit & push parts of this project.
 - [Gitpod](https://www.gitpod.io/) 
     - **Gitpod** was the IDE used to commit & push the project on [GitHub](https://github.com/).    
 - [GitHub](https://github.com/)
     - **Github** is used for: 
     1. Tracking the project, and for version control.
-    2. As a remote server for other users to see the code used in the project.
-    3. Deploying the project for live view. The deployed version can be viewed [here](https://yigitaksoy.github.io/Digital-House/).
+    2. As a repository for other users to see the code used in the project.
+    3. Deploying the final version of the project for live view. The deployed version can be viewed [here](https://yigitaksoy.github.io/Digital-House/).
 - [Bootstrap](https://www.bootstrapcdn.com/)
     - **Bootstrap**  to structure the website, and to achieve responsive layout across various mobile devices.      
 - [JQuery](https://jquery.com)
@@ -154,9 +154,9 @@ The goal of the website is to inform potential clients about the services that w
 - [Google Fonts](https://fonts.google.com/)
     - **Google Fonts**  for importing typography.
 - [Google Maps](https://www.google.com/maps/)
-    - **Google Maps**  for showing company location.
+    - **Google Maps**  for showing Agency location.
 - [Font Awesome](https://fontawesome.com/) 
-   - **Font Awesome** for adding an social icons, and on the disclaimer on the footer. 
+   - **Font Awesome** for adding an icons.
 - [W3C Markup Validator](https://validator.w3.org/)
    - **W3C Markup Validator** to check validity of HTML code.   
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
@@ -166,7 +166,7 @@ The goal of the website is to inform potential clients about the services that w
 - [Code Institute Form Dump](https://formdump.codeinstitute.net)
     - **Code Institute Form Dump** was used to validate input on the contact form, and improve UX.
 - [TinyPNG](https://tinypng.com/)
-    - **TinyPNG** was used for compressing images used on this website. 
+    - **TinyPNG** was used for compressing the images used on this website. 
 
 
 
