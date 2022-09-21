@@ -306,6 +306,7 @@ nav {
 
 .about-container {
   background-color: #12151F;
+  height: 100vh;
 }
 
 
@@ -319,7 +320,7 @@ nav {
 }
 
 .about-container img {
-  margin-top: 3rem;
+  margin-top: 1rem;
 }
 
 @media screen and (max-width: 768px) {
