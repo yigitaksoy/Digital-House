@@ -349,7 +349,6 @@ nav {
   padding-bottom: 0!important;
   background: #12151F;
   margin-bottom: 3rem;
-  
 }
 
 .services-container 
@@ -388,6 +387,10 @@ nav {
     .services-container img {
       width: auto;
       height: 360px!important;
+    }
+    
+    #services {
+      margin-top: 15rem;
     }
   }
 
